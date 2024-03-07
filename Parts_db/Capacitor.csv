@@ -1,0 +1,3 @@
+MPN,Characteristics,Package,Mfr,Id,Library Path,Library Ref,Footprint Path,Footprint Ref,Value,ValueSch,Rating,RatingSch,Tolerance,Material
+CC0805JKNPO9BN103,0805 NP0 0.01uF ±5% 50V,805,YAGEO,188574,Symbols\C.SchLib,C,Footprints\0805.PcbLib,_805,0.01uF,0.01 uF,50V,50 V,±5%,NP0
+CC0805KKX7R0BB104,0805 X7R 0.1uF ±10% 100V,805,YAGEO,188616,Symbols\C.SchLib,C,Footprints\0805.PcbLib,_805,0.1uF,0.1 uF,100V,100 V,±10%,X7R
